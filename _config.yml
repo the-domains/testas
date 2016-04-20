@@ -2,6 +2,7 @@ name: Testas
 favicon: null
 layout_spectrum: 0.86631
 typography_spectrum: 0.40417
+title: Puslapio pavadinimas
 cta:
   domain: null
   bucket: null
