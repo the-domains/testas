@@ -1,7 +1,7 @@
 name: Testas
 favicon: null
-layout_spectrum: 0.86631
-typography_spectrum: 0.40417
+layout_spectrum: 1
+typography_spectrum: 0.26198
 title: Puslapio pavadinimas
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.460215370869264
-  lightness: 0.5093424341175705
-  saturation: 0.49757916340604424
-  rhythmicContrast: 0.39668762939982116
+    - '#00003c'
+    - '#ffffd1'
+    - '#134150'
+    - '#ded7a1'
+    - '#869a7e'
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose: []
